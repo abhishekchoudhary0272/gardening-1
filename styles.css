@@ -61,7 +61,7 @@
     }
     .container2{
         
-        background-image: url(/images/bg.jpg);
+        background-image: url(images/bg.jpg);
         height: 41rem;
         color: white;
         font-family: "Barlow", sans-serif;
@@ -328,7 +328,7 @@
        height: 14rem;
        width: 19rem;
        margin: 1rem;
-       background-image: url(/images/gardening.jpeg);
+       background-image: url(images/gardening.jpeg);
        background-size: 21rem;
        display: grid;
        grid-template-rows: 1fr 2fr 1fr;
@@ -348,7 +348,7 @@
     height: 14rem;
     width: 19rem;
        margin: 1rem;
-    background-image: url(/images/lawn\ removing.webp);
+    background-image: url(images/lawn\ removing.webp);
     background-size: 21rem;
     display: grid;
     grid-template-rows: 1fr 4fr 1fr;
@@ -366,7 +366,7 @@
      height: 14rem;
        width: 19rem;
        margin: 1rem;
-       background-image: url(/images/flowering.webp);
+       background-image: url(images/flowering.webp);
        background-size: 21rem;
        display: grid;
        grid-template-rows: 1fr 4fr 1fr;
