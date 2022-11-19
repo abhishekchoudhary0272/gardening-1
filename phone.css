@@ -1,0 +1,39 @@
+.container{
+          width: 1209px;
+
+}
+.container2{
+    width: 1209px;
+}
+.container2 button {
+           position: relative;
+        left: 30rem;   /* border: 2px solid red; */
+}
+.container3{
+    width: 1209px;
+}
+.content3{
+    width: 31rem;
+}
+.container4{
+    width: 1124px;
+    padding-left: 5rem;
+    padding-top:2rem;
+    
+}
+.container5{
+    width: 1209px;
+}
+.container6{
+    width: 1209px;
+}
+.container7{
+    width: 1209px;
+}
+.container8{
+    width: 1209px;
+}
+.card11 img {
+    height: 35.05rem;
+    width: 23.3rem;
+}
