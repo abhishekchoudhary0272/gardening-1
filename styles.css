@@ -69,6 +69,7 @@
         font-weight: 500;
         display: grid;
         background-repeat:no-repeat;
+        background-size:cover;
         grid-template-rows:repeat(3,auto);
        
        
