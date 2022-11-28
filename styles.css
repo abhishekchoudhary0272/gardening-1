@@ -68,8 +68,8 @@
         display: block;
         font-weight: 500;
         display: grid;
-        background-repeat:norepeat;
-        grid-template-rows: repeat(3,auto);
+        background-repeat:no-repeat;
+        grid-template-rows:repeat(3,auto);
        
        
     }
