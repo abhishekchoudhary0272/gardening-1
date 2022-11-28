@@ -136,7 +136,7 @@
     .container2 button{
         /* border: 2px solid red; */
         position: relative;
-        left: 43rem;
+        left: 33rem;
         background-color:white;
         border-radius: 2rem;
         height: 3.5rem;
@@ -410,7 +410,7 @@
     }
 .card11 img{
        height: 36.05rem;
-    width: 32.4rem;
+    width: 26rem;
 }
        
     
@@ -453,14 +453,14 @@
   
     .card12 button{
         border: rgb(102, 129, 106);
-        height: 4.2rem;
-        width: 33rem;
+        height: 4.4rem;
+        width: 28rem;
         padding: 0;
        background-color:rgb(102, 129, 106) ; 
        color: white;
        font-size: 1rem;
        transition: all 0.3s ease-in-out;
-       margin-top: 4.4rem;
+       margin-top: 2.2rem;
     }
     .card12 button:hover{
         font-size: 1.2rem;
